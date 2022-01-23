@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'sodyfofana28032020'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6886D52447E40F68849F234B4CA8112 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6EFADFE2EB854E0C8AC1BBC46538ECE2 }}
